@@ -1,0 +1,5 @@
+requests~=2.32.3
+minio~=7.2.8
+apache-airflow-providers-docker~=3.13.0
+astro-sdk-python~=1.8.1
+apache-airflow-providers-slack==7.3.1
